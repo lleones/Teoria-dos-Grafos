@@ -3,11 +3,11 @@ Repositório que contém os códigos realizados nos EPG's da disciplina Teoria d
 
 Grupo:
 
-    Catarina Ramalho dos Santos - 121110708
-    Eli Pedro Cordeiro da Silva - 121110359
-    Jônatas Tavares dos Santos - 121110769
-    Lucas de Medeiros Soares - 121110295
-    Lucas Leones Costa Dos Santos - 121110281
+    Catarina Ramalho dos Santos
+    Eli Pedro Cordeiro da Silva
+    Jônatas Tavares dos Santos
+    Lucas de Medeiros Soares
+    Lucas Leones Costa Dos Santos
 
 Atribuições:
 
